@@ -1,0 +1,15 @@
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/bin/Debug/net8.0/CursosEstudiantes
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/bin/Debug/net8.0/CursosEstudiantes.deps.json
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/bin/Debug/net8.0/CursosEstudiantes.runtimeconfig.json
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/bin/Debug/net8.0/CursosEstudiantes.dll
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/bin/Debug/net8.0/CursosEstudiantes.pdb
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/obj/Debug/net8.0/CursosEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/obj/Debug/net8.0/CursosEstudiantes.AssemblyInfoInputs.cache
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/obj/Debug/net8.0/CursosEstudiantes.AssemblyInfo.cs
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/obj/Debug/net8.0/CursosEstudiantes.csproj.CoreCompileInputs.cache
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/obj/Debug/net8.0/CursosEstudiantes.sourcelink.json
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/obj/Debug/net8.0/CursosEstudiantes.dll
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/obj/Debug/net8.0/refint/CursosEstudiantes.dll
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/obj/Debug/net8.0/CursosEstudiantes.pdb
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/obj/Debug/net8.0/CursosEstudiantes.genruntimeconfig.cache
+/home/diego23/PWA/C_FromScratch/CursosEstudiantes/obj/Debug/net8.0/ref/CursosEstudiantes.dll
